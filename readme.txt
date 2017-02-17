@@ -1,4 +1,4 @@
-* Updated version available at "46.101.65.49/smartwifi/readme.txt" *
+* Updated version will be available at "46.101.65.49/smartwifi/readme.txt" *
 * Last updated on Tue, 01 Mar 2016 12:00:00 IST *
 
 * GPIO PIN MAPPING - ESP8266 vs NODEMCU *
