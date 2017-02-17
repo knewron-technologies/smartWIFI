@@ -1,0 +1,3 @@
+setLED, 5
+getinfo
+setLED, 0
